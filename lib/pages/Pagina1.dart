@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:programa_de_grados/Clases%20Grados/C%C2%B0.dart';
 //import 'package:grados_app/classes/Grados.dart';
-
+//cambio
 
 class pagina1  extends StatefulWidget {
   const pagina1({super.key});
